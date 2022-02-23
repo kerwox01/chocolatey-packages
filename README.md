@@ -1,13 +1,12 @@
 # Chocolatey Packages
 
-~~~
+
 <!-- EDIT ME-->
 
-[![](https://ci.appveyor.com/api/projects/status/github/YOUR_GITHUB_USERNAME_HERE/chocolatey-packages?svg=true)](https://ci.appveyor.com/project/YOUR_GITHUB_USERNAME_HERE/chocolatey-packages)
-[Update status](https://gist.github.com/YOUR_GITHUB_USERNAME_HERE/YOUR_GIST_ID)
+[![](https://ci.appveyor.com/api/projects/status/github/kerwox01/chocolatey-packages?svg=true)](https://ci.appveyor.com/project/kerwox01/chocolatey-packages)
+[Update status](https://gist.github.com/kerwox01/c07eb89855299c801bcb2ab777cb5d56)
 
 <!-- REMOVE THE squiggles "~" surrounding this (this should not be a code block) -->
-~~~
 
 ## Chocolatey Packages Template
 
